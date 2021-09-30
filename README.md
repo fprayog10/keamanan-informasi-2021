@@ -9,6 +9,8 @@ Bahasa programnya silahkan menggunakan yang kalian bisa.
 List File Untuk Nomor 1 : 
 decrypt.py , encrypt.py , kunci.txt , pesan.txt , pesandecrypted.txt , pesanencrypted.txt
 
+Link Video Nomor 1 : https://youtu.be/90TWFV3JvXk
+
 2. Generate Public Key
 
 List File Untuk Nomor 2 :
