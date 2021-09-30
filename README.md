@@ -13,3 +13,5 @@ decrypt.py , encrypt.py , kunci.txt , pesan.txt , pesandecrypted.txt , pesanencr
 
 List File Untuk Nomor 2 :
 private.pem & public.pem
+
+Link Video Nomor 2 : https://youtu.be/ZNW0YDC1EIk
